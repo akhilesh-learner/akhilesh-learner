@@ -9,7 +9,7 @@
 
 # Hey there, I'm Akhilesh 👋
 
-### Aspiring Developer | Lifelong Learner | Open Source Enthusiast
+### Learning AI/ML | Exploring Cyber Security | Open Source Enthusiast
 
 <p>
   <a href="https://github.com/akhilesh-learner">

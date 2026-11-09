@@ -46,16 +46,11 @@
   <img src="https://skillicons.dev/icons?i=python,java,mysql,flask,html,css,git,github,vscode,jupyter&theme=dark" alt="Python, Java, MySQL, Flask, HTML, CSS, Git, GitHub, VS Code, and Jupyter" />
 </p>
 
-<!-- Add your languages and frameworks when you are ready:
-     Example: skillicons.dev/icons?i=python,java,js,html,css,react
--->
-
 ---
 
 ## 📊 GitHub Analytics
 
 <div align="center">
-
 <a href="https://github.com/akhilesh-learner">
   <img height="180" src="https://github-stats-extended.vercel.app/api?username=akhilesh-learner&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true" alt="GitHub Statistics" />
 </a>
@@ -114,12 +109,8 @@
 
 ## 🚀 Featured Projects
 
-<!-- Replace these example repository names with your real projects.
-     The links below are placeholders, not verified repositories. -->
-
 <div align="center">
-
-<a href="https://github.com/akhilesh-learner/REPLACE_WITH_PROJECT_1">
+<a href="https://github.com/akhilesh-learner/AutoScope_Car_prediction">
   <img src="https://github-readme-stats.vercel.app/api/pin/?username=akhilesh-learner&repo=REPLACE_WITH_PROJECT_1&theme=tokyonight&hide_border=true" alt="Featured Project 1" />
 </a>
 

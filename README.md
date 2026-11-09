@@ -114,7 +114,7 @@
   <img src="https://github-readme-stats.vercel.app/api/pin/?username=akhilesh-learner&repo=REPLACE_WITH_PROJECT_1&theme=tokyonight&hide_border=true" alt="Featured Project 1" />
 </a>
 
-<a href="https://github.com/akhilesh-learner/REPLACE_WITH_PROJECT_2">
+<a href="https://github.com/akhilesh-learner/Small-Office-Home-Office-SOHO-network-design">
   <img src="https://github-readme-stats.vercel.app/api/pin/?username=akhilesh-learner&repo=REPLACE_WITH_PROJECT_2&theme=tokyonight&hide_border=true" alt="Featured Project 2" />
 </a>
 

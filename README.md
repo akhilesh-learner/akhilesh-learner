@@ -28,11 +28,11 @@
 
 ## 👨‍💻 About Me
 
-- 🌱 I'm continuously learning and improving my development skills.
-- 💻 I enjoy building projects and exploring new technologies.
-- 🎯 My goal is to write better code and create useful things.
-- 🚀 I believe in consistency, curiosity, and learning by doing.
-- 🤝 Open to learning, collaboration, and interesting projects.
+- 🎓 I'm a student passionate about Machine Learning, Artificial Intelligence, and Cybersecurity.
+- 🤖 Exploring ML algorithms, data science, and AI-driven solutions to real-world problems.
+- 🔐 Interested in ethical hacking, network security, and understanding cybersecurity threats.
+- 💻 Continuously improving my programming and problem-solving skills through hands-on projects.
+- 🚀 Always eager to learn new technologies, build innovative projects, and contribute to the tech community.
 
 > 💡 Every expert was once a beginner. Keep building!
 

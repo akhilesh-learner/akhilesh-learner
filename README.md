@@ -43,7 +43,7 @@
 <!-- Replace these badges with the technologies you actually use. -->
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=git,github,vscode&theme=dark" alt="Git, GitHub, and VS Code" />
+  <img src="https://skillicons.dev/icons?i=python,java,mysql,flask,html,css,git,github,vscode&theme=dark" alt="Python, Java, MySQL, Flask, HTML, CSS, Git, GitHub, and VS Code" />
 </p>
 
 <!-- Add your languages and frameworks when you are ready:

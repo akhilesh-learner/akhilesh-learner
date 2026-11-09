@@ -115,7 +115,7 @@
 </a>
 
 <a href="https://github.com/akhilesh-learner/Small-Office-Home-Office-SOHO-network-design">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=akhilesh-learner&repo=REPLACE_WITH_PROJECT_2&theme=tokyonight&hide_border=true" alt="Featured Project 2" />
+  <img src="https://github.com/akhilesh-learner/Small-Office-Home-Office-SOHO-network-design"/>
 </a>
 
 </div>

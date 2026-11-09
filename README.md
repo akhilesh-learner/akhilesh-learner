@@ -28,13 +28,13 @@
 
 ## 👨‍💻 About Me
 
-- 🎓 I'm a student passionate about Machine Learning, Artificial Intelligence, and Cybersecurity.
+- 🎓 I'm a student learning Machine Learning, Artificial Intelligence, and Cybersecurity.
 - 🤖 Exploring ML algorithms, data science, and AI-driven solutions to real-world problems.
 - 🔐 Interested in ethical hacking, network security, and understanding cybersecurity threats.
 - 💻 Continuously improving my programming and problem-solving skills through hands-on projects.
 - 🚀 Always eager to learn new technologies, build innovative projects, and contribute to the tech community.
 
-> 💡 Every expert was once a beginner. Keep building!
+> 💡 Many more interesting projects to come soon!
 
 ---
 

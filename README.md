@@ -9,7 +9,7 @@
 
 # Hey there, I'm Akhilesh 👋
 
-### Learning Data Science & ML | Exploring Cyber Security | Open Source Enthusiast
+### Learning Data Science & ML | Exploring Cyber Security | my Projects hub
 
 <p>
   <a href="https://github.com/akhilesh-learner">
@@ -19,7 +19,7 @@
 </p>
 
 <p>
-  <em>Learning by building. Growing one commit at a time.</em>
+  <em>Scroll down to view Projects, I upload my learnings here!</em>
 </p>
 
 </div>
